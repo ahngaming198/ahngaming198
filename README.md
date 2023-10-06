@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Arpan Mandal
 
-![Header](https://github.com/ahngaming198/ahngaming198/raw/main/github-header.jpg)
-
 I'm a passionate software developer with a love for all things tech. Here's a glimpse into my world:
 
 ## 🚀 About Me
@@ -21,7 +19,7 @@ Here are some of the technologies I work with:
 
 ## 🌐 Connect with Me
 
-- 📫 You can reach me via email at [your-email@example.com](mailto:help@diino.tech).
+- 📫 You can reach me via email at [help@diino.tech](mailto:help@diino.tech).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/arpan-mandal-b40b07270/).
 - 📱 Follow me on [Twitter](https://twitter.com/apcozmic).
 
