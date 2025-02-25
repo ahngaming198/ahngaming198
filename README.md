@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Arpan Mandal
+# Hi there! 👋 I'm Ashraf Hussain
 
 I'm a passionate software developer with a love for all things tech. Here's a glimpse into my world:
 
@@ -19,9 +19,9 @@ Here are some of the technologies I work with:
 
 ## 🌐 Connect with Me
 
-- 📫 You can reach me via email at [help@diino.tech](mailto:help@diino.tech).
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/arpan-mandal-b40b07270/).
-- 📱 Follow me on [Twitter](https://twitter.com/apcozmic).
+- 📫 You can reach me via email at [contact@ashrafhussain.tech](mailto:contact@ashrafhussain.tech).
+- 💼 Connect with me on [LinkedIn]().
+- 📱 Follow me on [Twitter]().
 
 ## 📊 GitHub Stats
 
